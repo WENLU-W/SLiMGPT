@@ -1,1 +1,0 @@
-SLiMGPT version 1
